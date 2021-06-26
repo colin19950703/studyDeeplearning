@@ -1,1 +1,1 @@
-# studyDeeplearning
+# 딥러닝을 공부하면서 혼자 정리하는 글입니다.
